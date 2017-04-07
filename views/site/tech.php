@@ -1,0 +1,1 @@
+<h1>Welcome to tech page!</h1>
